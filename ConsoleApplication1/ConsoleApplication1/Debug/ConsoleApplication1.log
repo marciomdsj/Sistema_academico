@@ -1,0 +1,169 @@
+﻿  Aluno.cpp
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(5,1): error C2504: 'Pessoa': classe base indefinida
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,13): error C2011: 'Aluno': redefinição do tipo 'class'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(3,8): error C2027: uso de tipo indefinido 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(3,58): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(4,1): error C2550: '{ctor}': listas de inicializadores de construtor são permitidas apenas em definições de construtor
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(5,11): error C2065: 'nomeAluno': identificador não declarado
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(6,1): warning C4508: '{ctor}': função deve retornar um valor; tipo de retorno 'void' assumido
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(8,8): error C2027: uso de tipo indefinido 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(8,16): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(9,1): error C2550: '{ctor}': listas de inicializadores de construtor são permitidas apenas em definições de construtor
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(10,2): error C2065: 'RA': identificador não declarado
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(11,1): warning C4508: '{ctor}': função deve retornar um valor; tipo de retorno 'void' assumido
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(13,9): error C2027: uso de tipo indefinido 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(14,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(15,1): warning C4508: '{dtor}': função deve retornar um valor; tipo de retorno 'void' assumido
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(17,13): error C2027: uso de tipo indefinido 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(19,2): error C2065: 'RA': identificador não declarado
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(22,12): error C2027: uso de tipo indefinido 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(24,9): error C2065: 'RA': identificador não declarado
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(27,14): error C2027: uso de tipo indefinido 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.cpp(29,9): error C2065: 'nomeAluno': identificador não declarado
+  ConsoleApplication1.cpp
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(5,1): error C2504: 'Pessoa': classe base indefinida
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,13): error C2011: 'Aluno': redefinição do tipo 'class'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.h(22,8): error C2079: 'Principal::Marcio' usa class 'Aluno' indefinido
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.h(23,8): error C2079: 'Principal::Lukas' usa class 'Aluno' indefinido
+  Departamento.cpp
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,13): error C2011: 'Aluno': redefinição do tipo 'class'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.cpp(25,20): error C2039: ' setNomeDepart': não é um membro de 'ListaDisciplinas'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.h(4,7): message : consulte a declaração de 'ListaDisciplinas'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.cpp(56,20): error C2039: ' incluiDiscp': não é um membro de 'ListaDisciplinas'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.h(4,7): message : consulte a declaração de 'ListaDisciplinas'
+  Disciplina.cpp
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ElDisciplina.h(6,12): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ElDisciplina.h(6,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ElDisciplina.h(6,25): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ElDisciplina.h(11,21): error C2061: erro de sintaxe: identificador 'Disciplina'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ElDisciplina.h(12,12): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ElDisciplina.h(12,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ElDisciplina.h(12,29): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.h(17,24): error C2061: erro de sintaxe: identificador 'Disciplina'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(12,12): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(12,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(12,25): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(13,12): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(13,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(13,24): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(14,12): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(14,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(14,19): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(25,19): error C2061: erro de sintaxe: identificador 'Disciplina'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,13): error C2011: 'Aluno': redefinição do tipo 'class'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.cpp(4,1): error C2512: 'ListaAlunos': nenhum construtor padrão apropriado disponível
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaAlunos.h(4,7): message : consulte a declaração de 'ListaAlunos'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.cpp(12,2): error C2065: 'pElAlunoAtual': identificador não declarado
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.cpp(13,2): error C2065: 'pElAlunoPrim': identificador não declarado
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.cpp(19,1): error C2512: 'ListaAlunos': nenhum construtor padrão apropriado disponível
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaAlunos.h(4,7): message : consulte a declaração de 'ListaAlunos'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.cpp(53,7): error C2660: 'Departamento::incluiDiscp': função não recebe 1 argumentos
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(25,7): message : consulte a declaração de 'Departamento::incluiDiscp'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.cpp(53,7): message : ao tentar corresponder a lista de argumentos '(Disciplina *)'
+  ElAluno.cpp
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(5,1): error C2504: 'Pessoa': classe base indefinida
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaAlunos.h(10,9): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaAlunos.h(10,9): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaAlunos.h(10,23): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaAlunos.h(11,9): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaAlunos.h(11,9): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaAlunos.h(11,24): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaAlunos.h(16,24): error C2061: erro de sintaxe: identificador 'ElAluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaAlunos.h(17,25): error C2061: erro de sintaxe: identificador 'ElAluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,13): error C2011: 'Aluno': redefinição do tipo 'class'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ElAluno.cpp(24,12): error C2027: uso de tipo indefinido 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+  ElDisciplina.cpp
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.h(11,14): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.h(11,14): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.h(11,33): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.h(12,14): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.h(12,14): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.h(12,34): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.h(17,24): error C2061: erro de sintaxe: identificador 'Disciplina'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(12,12): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(12,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(12,25): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(13,12): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(13,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(13,24): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(14,12): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(14,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(14,19): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(25,19): error C2061: erro de sintaxe: identificador 'Disciplina'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,13): error C2011: 'Aluno': redefinição do tipo 'class'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+  ListaAlunos.cpp
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(5,1): error C2504: 'Pessoa': classe base indefinida
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.h(20,14): error C3646: 'ObjLAlunos': especificador de substituição desconhecido
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.h(20,24): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,13): error C2011: 'Aluno': redefinição do tipo 'class'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaAlunos.cpp(8,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ListaDisciplinas.cpp
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(12,12): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(12,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(12,25): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(13,12): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(13,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(13,24): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(14,12): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(14,12): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(14,19): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(16,18): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(16,18): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(16,36): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(25,19): error C2061: erro de sintaxe: identificador 'Disciplina'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,13): error C2011: 'Aluno': redefinição do tipo 'class'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.cpp(8,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\ListaDisciplinas.cpp(26,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Pessoa.cpp
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(5,1): error C2504: 'Pessoa': classe base indefinida
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,13): error C2011: 'Aluno': redefinição do tipo 'class'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+  Principal.cpp
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(5,1): error C2504: 'Pessoa': classe base indefinida
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,13): error C2011: 'Aluno': redefinição do tipo 'class'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.h(22,8): error C2079: 'Principal::Marcio' usa class 'Aluno' indefinido
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.h(23,8): error C2079: 'Principal::Lukas' usa class 'Aluno' indefinido
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(33,12): error C2664: 'void Disciplina::incluiAluno(Aluno *)': não é possível converter um argumento 1 de 'int *' em 'Aluno *'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(33,25): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.h(32,7): message : consulte a declaração de 'Disciplina::incluiAluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(33,12): message : ao tentar corresponder a lista de argumentos '(int *)'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(34,12): error C2664: 'void Disciplina::incluiAluno(Aluno *)': não é possível converter um argumento 1 de 'int *' em 'Aluno *'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(34,25): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.h(32,7): message : consulte a declaração de 'Disciplina::incluiAluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(34,12): message : ao tentar corresponder a lista de argumentos '(int *)'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(35,15): error C2664: 'void Disciplina::incluiAluno(Aluno *)': não é possível converter um argumento 1 de 'int *' em 'Aluno *'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(35,28): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.h(32,7): message : consulte a declaração de 'Disciplina::incluiAluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(35,15): message : ao tentar corresponder a lista de argumentos '(int *)'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(36,15): error C2664: 'void Disciplina::incluiAluno(Aluno *)': não é possível converter um argumento 1 de 'int *' em 'Aluno *'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(36,28): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style entre parênteses
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Disciplina.h(32,7): message : consulte a declaração de 'Disciplina::incluiAluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Principal.cpp(36,15): message : ao tentar corresponder a lista de argumentos '(int *)'
+  Universidade.cpp
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(5,1): error C2504: 'Pessoa': classe base indefinida
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,13): error C2011: 'Aluno': redefinição do tipo 'class'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Aluno.h(4,7): message : consulte a declaração de 'Aluno'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(11,14): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(11,14): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(11,21): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(23,23): error C2061: erro de sintaxe: identificador 'Universidade'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(24,14): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(24,14): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\marci\Downloads\Exercicios_simao\ConsoleApplication1\ConsoleApplication1\Departamento.h(24,33): error C2238: token(s) inesperado(s) precedendo ';'
+  Gerando Código...
