@@ -3,6 +3,7 @@
 Principal::Principal() :
     DAINF(), UTFPR(),Princeton(), Cambridge(), Einstein(), Newton(), Simao()
 {
+    /*
     Einstein.inicializa(10, 10, 2000, "Einstein");
     Newton.inicializa(4, 1, 1643, "Isaac Newton");
     Simao.inicializa(16, 10, 2002, "Simao");//Não sei as datas
@@ -26,9 +27,9 @@ Principal::Principal() :
     DAMAT.incluiDiscp(&Calculo2);
     DAINF.incluiDiscp(&Computacao);
     DAINF.incluiDiscp(&Algoritmo);
-    */
+    
 
-    //Inicializar alunos
+    Inicializar alunos
     Marcio.setRA(2505622);
     Calculo.incluiAluno(&Marcio);
     Calculo.incluiAluno(&Lukas);
@@ -48,6 +49,7 @@ Principal::Principal() :
     std::cin >> diaATUAL >> mesATUAL >> anoATUAL;
 
     executar();
+    */
 }
 Principal::~Principal()
 {

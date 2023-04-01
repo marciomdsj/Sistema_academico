@@ -1,11 +1,9 @@
 #pragma once
 #include<iostream>
 #include<string.h>
-#include"Universidade.h"
 #include"Departamento.h"
 
 class Universidade;
-class Departamento;
 class Principal;
 class Pessoa 
 {

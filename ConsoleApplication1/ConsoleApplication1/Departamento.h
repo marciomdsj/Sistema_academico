@@ -1,9 +1,8 @@
 #pragma once
-#include"ListaDisciplinas.h"
-#include "Departamento.h"
 #include "Universidade.h"
-#include "Disciplina.h"
-#include "ListaDisciplinas.h"
+
+class ListaDisciplinas;
+class Disciplina;
 class Departamento
 {
 private:

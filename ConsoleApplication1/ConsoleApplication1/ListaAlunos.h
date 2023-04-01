@@ -1,6 +1,6 @@
 #pragma once
-#include"Aluno.h"
 #include"ElAluno.h"
+class aluno;
 class ListaAlunos
 {
 private:
